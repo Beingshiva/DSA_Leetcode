@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
