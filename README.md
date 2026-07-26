@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
