@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Beingshiva/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
