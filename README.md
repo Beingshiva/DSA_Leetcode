@@ -56,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0242-valid-anagram) |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0278-first-bad-version) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
