@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Beingshiva/DSA_Leetcode/tree/master/0242-valid-anagram) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Beingshiva/DSA_Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
